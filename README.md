@@ -21,11 +21,12 @@ Advanced price elasticity modeling using machine learning with temporal validati
 
 ```bash
 pip install -r requirements.txt
+```
 
-
-## 📊 Dataset Preparation
+### 📊 Dataset Preparation
 1. Download dataset from [Kaggle Retail Data Analytics](https://www.kaggle.com/datasets/manjeetsingh/retaildataset)
 2. Organize files:
+   
 ```
 data/
 ├── raw/
@@ -34,7 +35,7 @@ data/
 └── processed/
 ```
 
-## � Workflow
+## Workflow
 
 ### 1. Data Processing
 ```python
