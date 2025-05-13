@@ -1,7 +1,5 @@
 # Advanced Price Elasticity Modeling
 
-![SHAP Feature Importance](results/feature_importance.png)
-
 ## 🚀 Overview
 Advanced price elasticity modeling using machine learning with temporal validation and Bayesian hyperparameter optimization. Implements non-linear elasticity estimation through SHAP values interpretation.
 
